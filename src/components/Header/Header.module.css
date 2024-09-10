@@ -1,0 +1,26 @@
+header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+header .logo {
+  height: 9em;
+  object-fit: contain;
+  filter: drop-shadow(0 0 8px rgba(0, 0, 0, 0.4));
+  will-change: filter;
+  transition: filter 300ms;
+  padding: 8px;
+}
+
+header .logo:hover {
+  filter: drop-shadow(0 0 2em #eaff5eaa);
+}
+header .logo.react:hover {
+  filter: drop-shadow(0 0 2em #c6db07aa);
+}
+
+header .title {
+  margin: 0;
+  font-size: 3rem;
+  color: rgba(52, 49, 49, 0.87);
+}

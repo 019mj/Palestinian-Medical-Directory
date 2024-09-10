@@ -1,0 +1,39 @@
+.dialogContent {
+  padding: 1rem;
+}
+
+.field {
+  margin-bottom: 1.5rem;
+}
+
+.dialogLabel {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 0.5rem;
+  color: #495057;
+}
+
+.descTextArea {
+  width: 100%;
+  padding: 0.75rem;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+  font-family: inherit;
+}
+
+.dialogFooter {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.5rem;
+}
+
+.buttonSuccess {
+  background-color: #ffeb3b !important; 
+  border-color: #ffeb3b !important;
+  color: black !important; 
+}
+
+.buttonSuccess:hover {
+  background-color: #fbc02d !important; 
+  border-color: #fbc02d !important;
+}
