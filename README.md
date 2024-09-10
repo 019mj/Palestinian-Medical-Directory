@@ -5,9 +5,12 @@ A React application for managing a medical directory, allowing users to search f
 ## Screenshots
 
 ![image](https://github.com/user-attachments/assets/8db0f6ea-00e7-4656-884a-b7f3fa3171e6)
-(![image](https://github.com/user-attachments/assets/ebf67490-7a5c-402a-a0b3-240d4509a424)
-(![image](https://github.com/user-attachments/assets/289d59f4-f227-477a-bf4e-f8914e1771f8)
-(![image](https://github.com/user-attachments/assets/a2918e51-5bb8-4eb6-9aef-c0e032d513c4)
+
+![image](https://github.com/user-attachments/assets/ebf67490-7a5c-402a-a0b3-240d4509a424)
+
+![image](https://github.com/user-attachments/assets/289d59f4-f227-477a-bf4e-f8914e1771f8)
+
+![image](https://github.com/user-attachments/assets/a2918e51-5bb8-4eb6-9aef-c0e032d513c4)
 
 ## Features
 
